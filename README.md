@@ -5,7 +5,7 @@
 
 ## :clipboard: About the project
 
-An indispensable web application to edit words and phrases, using uppercase, lowercase letters and title format, also having the options of consonants in uppercase and uppercase vowels, in addition to being able to copy and delete the typed and / or converted content. If you want to see the project running, follow the [my dribble](https://dribbble.com/shots/13531370-Word-Converter/attachments/5135365?mode=media) or acess [here](https://dribbble.com/)
+An indispensable web application to edit words and phrases, using uppercase, lowercase letters and title format, also having the options of consonants in uppercase and uppercase vowels, in addition to being able to copy and delete the typed and / or converted content. If you want to see the project running, follow the [my dribble](https://dribbble.com/shots/13531370-Word-Converter/attachments/5135365?mode=media) or acess [here](https://jhonywalker-pixel.github.io/word-converter/)
 
 ## :computer: Languages used
 
