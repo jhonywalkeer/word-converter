@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="imagens/icon.png" alt="Word Converter" width="500px" />
+    <img src="imagens/icon.png" alt="Word Converter" width="200px" />
 </h1>
 
 ## :clipboard: About the project
