@@ -9,11 +9,13 @@ An indispensable web application to edit words and phrases, using uppercase, low
 
 ## 🛠 Technologies
 
-Project was built using **HTML** and **CSS** but what is it?
+Project was built using **HTML**, **CSS** e **VanillaJS** but what is it?
 
 - **HTML** - Or HyperText Markup Language, which means: "Hypertext Markup Language" is a markup language used in the construction of the "skeleton" of web pages.
 
 - **CSS** - Or Cascading Style Sheets is a mechanism for adding style to a web document.
+
+- **VanillaJS** - Nothing else is pure JavaScript. The play on the name probably arose from the English expression “vanilla (something)”, which refers to the most common or simplest version of something.
 
 ## 🔨 Local Installation
 
